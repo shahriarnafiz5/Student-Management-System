@@ -131,3 +131,14 @@ The form checks the entered credentials against the Admins table and also checks
 **Watch Score** — A read-only table of the student's own scores, joined with course names.
 
 **Print** — Combines profile and full score list into one formatted, print-ready page, always scoped to the logged-in student.
+
+## Diagrams
+
+### ER Diagram
+![ER Diagram](https://raw.githubusercontent.com/shahriarnafiz5/Student-Management-System/dae0cde1c3d97f2f4f4b95856fb40927fc5129e4/docs/diagrams/Er%20diagram.drawio.png)
+
+### UI Diagram
+![UI Diagram](https://raw.githubusercontent.com/shahriarnafiz5/Student-Management-System/dae0cde1c3d97f2f4f4b95856fb40927fc5129e4/docs/diagrams/sms_ui_diagram%20(1).png)
+
+### Schema Table
+![Schema Table](https://raw.githubusercontent.com/shahriarnafiz5/Student-Management-System/dae0cde1c3d97f2f4f4b95856fb40927fc5129e4/docs/diagrams/student_management_schema_table.png)
