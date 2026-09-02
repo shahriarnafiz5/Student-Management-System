@@ -2,9 +2,15 @@
 
 ## Overview
 
-Every educational institute, training center, and coaching academy runs on the same daily grind: a stack of paper admission forms, a register book for attendance and marks, and a filing cabinet of course brochures that someone has to update by hand every time a new batch starts. When a parent calls to ask about their child's exam result, front-desk staff has to physically dig through folders. When a student wants to check their own marks, they have to visit the office in person and wait in line. When the institute wants to launch a new batch of an existing course, someone re-types the same information into a new register.
+**Mdemy SSC Math Care** is a coaching center that teaches a single subject — **Math** — exclusively to **SSC (Secondary School Certificate) candidates**, with a total capacity of **150–200 students**.
 
-This is slow, error-prone, and gives no one — not the owner, not the staff, not the students — a real-time picture of what is happening across the institute. The **Student Management System** exists to replace this paper-and-memory workflow with a single, structured, always-available digital record that every stakeholder can trust.
+The paper-and-register workflow this system replaces is the same as any coaching center: admission forms, an attendance/marks register, and a filing cabinet — all slow, error-prone, and invisible to anyone not physically in the office. The **Student Management System** replaces this with a single, structured, always-available digital record for the owner, staff, and students.
+
+Because Mdemy SSC Math Care is single-subject, the system is simplified accordingly:
+
+- No "Course" catalog with multiple subjects — there is one fixed subject: **SSC Math**.
+- A **student capacity limit (150–200)** is enforced at registration time.
+- Reporting (results, printouts) is scoped to a single subject, so there's no need for course-wise comparison screens.
 
 ## Actors
 
