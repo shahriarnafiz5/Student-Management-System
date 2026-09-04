@@ -148,3 +148,41 @@ The form checks the entered credentials against the Admins table and also checks
 
 ### Schema Table
 ![Schema Table](https://raw.githubusercontent.com/shahriarnafiz5/Student-Management-System/dae0cde1c3d97f2f4f4b95856fb40927fc5129e4/docs/diagrams/student_management_schema_table.png)
+
+## Screenshots
+
+### 1. Login Form
+![Login Form](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/loginform.PNG?raw=true)
+
+### 2. Admin Form
+![Admin Form](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/AdminForm.PNG?raw=true)
+
+### 3. Add Course
+![Add Course](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/AddCourse.PNG?raw=true)
+
+### 4. Enroll To Course
+![Enroll To Course](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/EnrollToCourses.PNG?raw=true)
+
+### 5. Registration
+![Registration](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/Registration.PNG?raw=true)
+
+### 6. Add Admin
+![Add Admin](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/addadmin.PNG?raw=true)
+
+### 7. Manage Course
+![Manage Course](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/managecoue.PNG?raw=true)
+
+### 8. Manage Student
+![Manage Student](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/managecourse.PNG?raw=true)
+
+### 9. Add Score
+![Add Score](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/managescore.PNG?raw=true)
+
+### 10. Print Course
+![Print Course](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/printcourse.PNG?raw=true)
+
+### 11. Print Student
+![Print Student](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/printstudent.PNG?raw=true)
+
+### 12. Print Admin
+![Print Admin](https://github.com/shahriarnafiz5/Student-Management-System/blob/7a3b1e46068a8f67862169c814628288c8ee372d/docs/screenshot/printstudent.PNG?raw=true)
